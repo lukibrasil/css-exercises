@@ -1,0 +1,21 @@
+p {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.one_class {
+    font-size: 24px;
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#one_ID {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#two_ID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+    
+}
